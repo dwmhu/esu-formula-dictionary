@@ -108,3 +108,9 @@ Or simply:
 ## License
 
 License to be decided.
+
+## Chinese README
+
+A Chinese introduction is available here:
+
+[Readme-ESU_fx persona-zh-CN.md](Readme-ESU_fx%20persona-zh-CN.md)
